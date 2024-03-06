@@ -1,0 +1,14 @@
+C:\_ws\top_n\bin\Debug\net8.0\top_n.exe
+C:\_ws\top_n\bin\Debug\net8.0\top_n.deps.json
+C:\_ws\top_n\bin\Debug\net8.0\top_n.runtimeconfig.json
+C:\_ws\top_n\bin\Debug\net8.0\top_n.dll
+C:\_ws\top_n\bin\Debug\net8.0\top_n.pdb
+C:\_ws\top_n\obj\Debug\net8.0\top_n.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ws\top_n\obj\Debug\net8.0\top_n.AssemblyInfoInputs.cache
+C:\_ws\top_n\obj\Debug\net8.0\top_n.AssemblyInfo.cs
+C:\_ws\top_n\obj\Debug\net8.0\top_n.csproj.CoreCompileInputs.cache
+C:\_ws\top_n\obj\Debug\net8.0\top_n.dll
+C:\_ws\top_n\obj\Debug\net8.0\refint\top_n.dll
+C:\_ws\top_n\obj\Debug\net8.0\top_n.pdb
+C:\_ws\top_n\obj\Debug\net8.0\top_n.genruntimeconfig.cache
+C:\_ws\top_n\obj\Debug\net8.0\ref\top_n.dll
