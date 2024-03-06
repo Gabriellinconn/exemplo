@@ -5,4 +5,4 @@ int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Digite a largura do retângulo: ");
 int l = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine($"A Área do seu retângulo é: {l*a}");
+Console.WriteLine($"A Área do seu retângulo é(alterado): {l * a}");
